@@ -33,36 +33,34 @@ A machine learning tutorial on how to do image recognicion using Scikit Learn. [
 
 ## Technical skills:
 
-### Languages:
-Javascript
-Python 
+**Languages:**
+⋅⋅*Javascript
+⋅⋅*Python 
 
-### Front-end:
-HTML
-CSS & Sass
-Jade
-jQuery
-Twitter Bootstrap
-React JS & Flux
-D3.js
+**Front-end:**
+⋅⋅*HTML
+⋅⋅*CSS & Sass
+⋅⋅*Jade
+⋅⋅*jQuery
+⋅⋅*Twitter Bootstrap
+⋅⋅*React JS & Flux
+⋅⋅*D3.js
 
-### Back-end:
-MongoDB
-MySQL
-Node JS
-Hapi
-Django
+**Back-end:**
+⋅⋅*MongoDB
+⋅⋅*Node JS
+⋅⋅*Hapi
+⋅⋅*Django
 
-### Machine Learning:
-Scikit Learn
-Numpy
+**Machine Learning / Data Science:**
+⋅⋅*Scikit Learn
+⋅⋅*Numpy
+⋅⋅*Pandas
+⋅⋅*Matplotlib
 
-### Testing:
-Mocha
-Qunit
-
-
-Interests
+**Testing:**
+⋅⋅*Mocha
+⋅⋅*Qunit
 
 
 

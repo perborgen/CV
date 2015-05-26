@@ -13,7 +13,7 @@ I started learning how to code while running Propell, as my interest for the fie
 ### Propell (2012 - 2014)
 I founded a kids app startup Propell and ran it for 2.5 years as the CEO. Propell's childrens books, learning material and music apps have been downloaded over 1 million times by parents all over the world. My roles included management, marketing & PR, administration, accounting and everything else related to running a startup. Download our Disco Fingers app here.
 
-### Mikrojobb.no (2011)
+### Mikrojobb (2011)
 While studying, I founded a Norwegian site to buy and sell micro services. Mikrojobb quickly grew to be the most popular of its kind in Norway and was aquired by NeedBox.com in 2013.
 
 
@@ -21,46 +21,46 @@ While studying, I founded a Norwegian site to buy and sell micro services. Mikro
 
 ### Keyword King
 
-A [http://www.keywordking.co/](webapp) that instantly shows you your app's underperforming keywords in the App Store. [https://github.com/foundry-matrix/CrapWords](Github repo.)
+A [webapp](http://www.keywordking.co/) that instantly shows you your app's underperforming keywords in the App Store. [Github repo.](https://github.com/foundry-matrix/CrapWords)
 
 ### Squish
 
-A service for students to help them remember and repeat their notes. [https://github.com/pajoa/pajoa-the-chimp](Github repo.)
+A service for students to help them remember and repeat their notes. [Github repo.](https://github.com/pajoa/pajoa-the-chimp)
 
 ### Stupid Machine
 
-A machine learning tutorial on how to do image recognicion using Scikit Learn. [https://github.com/perborgen/StupidMachine] (Github repo.)
+A machine learning tutorial on how to do image recognicion using Scikit Learn. [Github repo.](https://github.com/perborgen/StupidMachine) 
 
 ## Technical skills:
 
 **Languages:**
-⋅⋅*Javascript
-⋅⋅*Python 
+* Javascript
+* Python 
 
 **Front-end:**
-⋅⋅*HTML
-⋅⋅*CSS & Sass
-⋅⋅*Jade
-⋅⋅*jQuery
-⋅⋅*Twitter Bootstrap
-⋅⋅*React JS & Flux
-⋅⋅*D3.js
+* HTML
+* CSS & Sass
+* Jade
+* jQuery
+* Twitter Bootstrap
+* React JS & Flux
+* D3.js
 
 **Back-end:**
-⋅⋅*MongoDB
-⋅⋅*Node JS
-⋅⋅*Hapi
-⋅⋅*Django
+* MongoDB
+* Node JS
+* Hapi
+* Django
 
 **Machine Learning / Data Science:**
-⋅⋅*Scikit Learn
-⋅⋅*Numpy
-⋅⋅*Pandas
-⋅⋅*Matplotlib
+* Scikit Learn
+* Numpy
+* Pandas
+* Matplotlib
 
 **Testing:**
-⋅⋅*Mocha
-⋅⋅*Qunit
+* Mocha
+* Qunit
 
 
 

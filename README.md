@@ -14,22 +14,22 @@ In early 2015 I enrolled as a student at Founders & Coders in London. F&C is a 3
 After finishing my studies I founded a kids app startup named Propell, which I ran for 2.5 years as the CEO. Propell's childrens books, educational material and music apps have been downloaded over 1 million times by parents around the world. My responsibilities included management, marketing & PR, administration, accounting and everything else related to running a startup. Download our Disco Fingers app here.
 
 ### Mikrojobb (2011)
-While studying, I founded a Norwegian site to buy and sell micro services. Mikrojobb quickly grew to be the most popular of its kind in Norway and was aquired by NeedBox.com in 2013.
+While studying, I founded a Norwegian site to buy and sell micro services. Mikrojobb quickly grew to be the most popular of its kind in Norway and was acquired by NeedBox.com in 2013.
 
 
 ## Projects I've coded:
 
-### Keyword King
+### [Keyword King](http://www.keywordking.co/)
 
-A [webapp](http://www.keywordking.co/) that instantly shows you your app's underperforming keywords in the App Store. [Github repo.](https://github.com/foundry-matrix/CrapWords)
+A webapp that instantly shows you your app's underperforming keywords on the App Store. [Github repo.](https://github.com/foundry-matrix/CrapWords)
 
 ### Squish
 
 A service for students to help them remember and repeat their notes. [Github repo.](https://github.com/pajoa/pajoa-the-chimp)
 
-### Stupid Machine
+### [Stupid Machine](https://github.com/perborgen/StupidMachine) 
 
-A machine learning tutorial on how to do image recognicion using Scikit Learn. [Github repo.](https://github.com/perborgen/StupidMachine) 
+A machine learning tutorial on how to do image recognicion using Scikit Learn. 
 
 ## Technical skills:
 

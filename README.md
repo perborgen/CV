@@ -21,7 +21,11 @@ While studying, I founded a Norwegian site to buy and sell micro services. Mikro
 
 ### [Keyword King](http://www.keywordking.co/)
 
-A webapp that instantly shows you your app's underperforming keywords on the App Store. [Github repo.](https://github.com/foundry-matrix/CrapWords)
+A simple webapp that instantly shows you your app's underperforming keywords on the App Store. [Github repo.](https://github.com/foundry-matrix/CrapWords)
+
+### [Rate My Stuff](https://github.com/people-under-the-stairs/midnight-marauders)
+
+A service for people to create user profiles, upload images and recieve ratings from other users.
 
 ### Squish
 
@@ -51,6 +55,7 @@ A machine learning tutorial on how to do image recognicion using Scikit Learn.
 * Node JS
 * Hapi
 * Django
+* REST APIs
 
 **Machine Learning / Data Science:**
 * Scikit Learn

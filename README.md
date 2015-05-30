@@ -23,9 +23,10 @@ While studying, I founded a Norwegian site to buy and sell micro services. Mikro
 
 A simple webapp that instantly shows you your app's underperforming keywords on the App Store. [Github repo.](https://github.com/foundry-matrix/CrapWords)
 
-### [Rate My Stuff](https://github.com/people-under-the-stairs/midnight-marauders)
+### Rate My Stuff
 
-A service for people to create user profiles, upload images and recieve ratings from other users.
+A service for people to create user profiles, upload images and recieve ratings from other users. [Github repo.](https://github.com/people-under-the-stairs/midnight-marauders)
+
 
 ### Squish
 

@@ -21,16 +21,19 @@ While studying, I founded a Norwegian site to buy and sell micro services. Mikro
 
 ### [Keyword King](http://www.keywordking.co/)
 
-A simple webapp that instantly shows you your app's underperforming keywords on the App Store. [Github repo.](https://github.com/foundry-matrix/CrapWords)
+A simple webapp that instantly shows you your app's underperforming keywords on the App Store.   
+[Github repo.](https://github.com/foundry-matrix/CrapWords)
 
 ### Rate My Stuff
 
-A service for people to create user profiles, upload images and recieve ratings from other users. [Github repo.](https://github.com/people-under-the-stairs/midnight-marauders)
+A service for people to create user profiles, upload images and recieve ratings from other users.   
+[Github repo.](https://github.com/people-under-the-stairs/midnight-marauders)
 
 
 ### Squish
 
-A service for students to help them remember and repeat their notes. [Github repo.](https://github.com/pajoa/pajoa-the-chimp)
+A service for students to help them remember and repeat their notes.   
+[Github repo.](https://github.com/pajoa/pajoa-the-chimp)
 
 ### [Stupid Machine](https://github.com/perborgen/StupidMachine) 
 

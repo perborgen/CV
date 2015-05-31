@@ -71,7 +71,7 @@ A machine learning tutorial on how to do image recognicion using Scikit Learn.
 * Mocha
 * Qunit
 
-### Some articles:
-Other than coding, I enjoy [writing about coding](https://medium.com/@oslokommuneper/machine-learning-in-a-week-a0da25d59850). I also like cross country skiing and singing [national romantic songs](https://www.youtube.com/watch?v=4ZueSTd63TA) with my man choir.
+### Other:
+Other than coding, I enjoy [writing about coding](https://medium.com/@oslokommuneper/machine-learning-in-a-week-a0da25d59850). I also like cross country skiing and singing [first bass](https://www.youtube.com/watch?v=4ZueSTd63TA) in a man choir.
 
 

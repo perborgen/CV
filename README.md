@@ -37,7 +37,7 @@ A service for students to help them remember and repeat their notes.
 
 ### [Stupid Machine](https://github.com/perborgen/StupidMachine) 
 
-A machine learning tutorial on how to do image recognicion using Scikit Learn. 
+A machine learning tutorial on image recognicion with Scikit Learn. 
 
 ## Technical skills:
 

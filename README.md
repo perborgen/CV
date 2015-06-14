@@ -3,7 +3,7 @@ I'm a developer, with a background as a kids app entrepreneur.
 
 I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript or Python.
 
-I'm self driven, hard working and easy going. I also hold a bachelors degree in economics.
+I'm self driven, hard working and easy going. I also hold a bachelor's degree in economics.
 
 ## Experience:
 
